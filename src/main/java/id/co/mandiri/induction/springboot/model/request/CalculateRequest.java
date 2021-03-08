@@ -1,4 +1,4 @@
-package id.co.mandiri.induction.springboot.model.entity;
+package id.co.mandiri.induction.springboot.model.request;
 
 import lombok.Data;
 

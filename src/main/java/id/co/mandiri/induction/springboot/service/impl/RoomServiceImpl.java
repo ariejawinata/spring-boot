@@ -1,7 +1,7 @@
 package id.co.mandiri.induction.springboot.service.impl;
 
-import id.co.mandiri.induction.springboot.model.entity.CalculateRequest;
-import id.co.mandiri.induction.springboot.model.entity.CalculateResponse;
+import id.co.mandiri.induction.springboot.model.request.CalculateRequest;
+import id.co.mandiri.induction.springboot.model.response.CalculateResponse;
 import id.co.mandiri.induction.springboot.service.RoomService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

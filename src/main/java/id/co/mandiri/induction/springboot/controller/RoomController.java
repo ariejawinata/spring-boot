@@ -1,7 +1,7 @@
 package id.co.mandiri.induction.springboot.controller;
 
-import id.co.mandiri.induction.springboot.model.entity.CalculateRequest;
-import id.co.mandiri.induction.springboot.model.entity.CalculateResponse;
+import id.co.mandiri.induction.springboot.model.request.CalculateRequest;
+import id.co.mandiri.induction.springboot.model.response.CalculateResponse;
 import id.co.mandiri.induction.springboot.service.RoomService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
